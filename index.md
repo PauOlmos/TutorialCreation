@@ -18,7 +18,7 @@ Visible tutorials tend to be boring and slow and are usually a must avoid. The t
 
 Invisible tutorials teaches the player to play without him knowing it. Lots of players prefer to skip tutorials if they have the chance so the invisble tutorial can be more easy-going and practical. These kind of tutorials share the techniques of:
 
-1. Not pausing the game to explain anything but forcing the player to understand hoe the world works.
+1. Not pausing the game to explain anything but forcing the player to understand how the world works.
 2. Using non obstrusive and pausing messages durning chill moments so the player can understand what is he leraning.
 3. The player being unaware of the ending of the tutorial because it is well merged with the story and gameplay (Good magic circle maintenance)
 
