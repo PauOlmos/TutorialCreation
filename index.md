@@ -24,6 +24,26 @@ Invisible tutorials teaches the player to play without him knowing it. Lots of p
 
 ![image](https://user-images.githubusercontent.com/79161085/156935625-86d813da-cb6d-4772-890b-feef4f3dd003.png)
 
+## First 3 minutes of the game
+
+Understanding the first 3 minutes of the game as the actual first 3 minutes of gameplay, excluding cinematics and character personalization, these are at least, visible or invisible, a game tutorial.
+
+The first 3 minutes of gameplay must be an initiation to the world, overcoming simple and short goals to undesrtand and get used to the mechanics that are presented. Also, the first 3/5 mintues are crutial for the player because it can stock fun and great memories that will meake remember the game with positive emotions.
+
+However, it is not easy to entertain the player the first minutes if he does not know hot to play so there are 10 well stablished rules to follow to ensure a great and fun game tutorial, which are George's rules, explained on his 2012 GDC talk (link on documentation).
+
+1. Blend the tutorial on the game (invisible tutorials).
+2. Make the player DO something, not read it. Spending the valuable first minutes of the game reading instructions it is not fun nor memorable.
+3. Start giving the player the minimum to play but the necessary to learn through the time is better than trying to impress the player and showingg all the mechanics at the beggining, weighing him down and not being receptive to learn more about the game.
+4. "Just get the player to do it once"[Filament Games, explaining George's rules]. Guide the player to do the actions once and not assume that just by explaining it, the player will remember that.
+5. Less is more. Using a maximum of eight words to explain what the action is about.
+6. Always avoid pop-up texts and by consequence, use hint banners.
+7. Use adaptative messaging rather than explicit direction.
+8. Make every word of the tutorial text relevant, introducing jokes, storytelling or confusing explanantions can introduce to the player the habit of skipping dialogs.
+9. Reinforcing the 5th rule, use as much visuals as possible to reduce the words and the reading time.
+10. Finally, avoid explaining and teaching things that everyone knows such as jump on a platform game or shoot on a Call of Duty game, it is useless.
+
+
 # DOCUMENTATION
 
 https://www.youtube.com/watch?v=CNH6UslrTbU
