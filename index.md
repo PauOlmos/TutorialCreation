@@ -55,6 +55,21 @@ Other learning curves:
 
 ![image](https://user-images.githubusercontent.com/79161085/156937819-15660306-95c6-4d29-afa7-81086988e599.png)
 
+## EXAMPLES
+
+### Good game tutorials
+
+Plants Vs. Zombies
+
+![image](https://user-images.githubusercontent.com/79161085/156938051-75580163-a6ea-4872-b729-6305863a5cc3.png)
+
+Clash of Clans
+
+![image](https://user-images.githubusercontent.com/79161085/156938125-0e83146b-c12a-4806-839d-4c09336fd5a2.png)
+
+Portal 2
+
+![image](https://user-images.githubusercontent.com/79161085/156938160-35fc22d3-255b-4847-9efd-e8252ed67b7f.png)
 
 # DOCUMENTATION
 
