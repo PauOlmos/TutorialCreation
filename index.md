@@ -71,6 +71,20 @@ Portal 2
 
 ![image](https://user-images.githubusercontent.com/79161085/156938160-35fc22d3-255b-4847-9efd-e8252ed67b7f.png)
 
+### Bad game tutorials
+
+Assassin's Creed III
+
+![image](https://user-images.githubusercontent.com/79161085/156938285-1e320207-58bd-493c-9b96-c11626277f83.png)
+
+The Witcher 2
+
+![image](https://user-images.githubusercontent.com/79161085/156938327-9e90d5f4-0ec3-4c71-a986-6cb164631a13.png)
+
+Apex Legends
+
+![image](https://user-images.githubusercontent.com/79161085/156938340-3a740843-edf2-41a8-ba02-866fb08b6690.png)
+
 # DOCUMENTATION
 
 https://www.youtube.com/watch?v=CNH6UslrTbU
@@ -82,3 +96,5 @@ https://www.gdcvault.com/play/1015541/How-I-Got-My-Mom
 https://www.gamedeveloper.com/design/gdc-2012-10-tutorial-tips-from-i-plants-vs-zombies-i-creator-george-fan
 
 https://www.youtube.com/watch?v=BCPcn-Q5nKE
+
+https://whatculture.com/gaming/10-worst-video-game-tutorials-everyone-hated?page=10
