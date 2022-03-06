@@ -85,14 +85,3 @@ Apex Legends
 
 ![image](https://user-images.githubusercontent.com/79161085/156938340-3a740843-edf2-41a8-ba02-866fb08b6690.png)
 
-# DOCUMENTATION
-
-Video opinion of tutorials: https://www.youtube.com/watch?v=CNH6UslrTbU
-
-10 tips for designing a game tutorial: https://www.filamentgames.com/blog/10-tips-designing-game-tutorial/
-
-10 tips for designing a game tutorial (GDC):https://www.gdcvault.com/play/1015541/How-I-Got-My-Mom
-
-Video engaging tutorial creation: https://www.youtube.com/watch?v=BCPcn-Q5nKE
-
-Bad tutorials examples: https://whatculture.com/gaming/10-worst-video-game-tutorials-everyone-hated?page=10
