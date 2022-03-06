@@ -43,6 +43,18 @@ However, it is not easy to entertain the player the first minutes if he does not
 9. Reinforcing the 5th rule, use as much visuals as possible to reduce the words and the reading time.
 10. Finally, avoid explaining and teaching things that everyone knows such as jump on a platform game or shoot on a Call of Duty game, it is useless.
 
+## Lerarning curve analysis
+
+Every game relies on its own learning curve, which is the relation between time spent playing and the loss rate/challanges achieved, and sometimes this curve it is the point of the game; it is not equally fun dying in CoD than in Dark Souls. The average learning curve uses to be something like:
+
+![image](https://user-images.githubusercontent.com/79161085/156937725-977aa4ef-3f30-4f96-9b93-b8571b3dbf76.png)
+
+As seen on the image, it is easier to have a growing curve with a tutorial.
+
+Other learning curves:
+
+![image](https://user-images.githubusercontent.com/79161085/156937819-15660306-95c6-4d29-afa7-81086988e599.png)
+
 
 # DOCUMENTATION
 
