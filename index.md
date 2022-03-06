@@ -38,7 +38,7 @@ However, it is not easy to entertain the player the first minutes if he does not
 4. "Just get the player to do it once"[Filament Games, explaining George's rules]. Guide the player to do the actions once and not assume that just by explaining it, the player will remember that.
 5. Less is more. Using a maximum of eight words to explain what the action is about.
 6. Always avoid pop-up texts and by consequence, use hint banners.
-7. Use adaptative messaging rather than explicit direction.
+7. Use adaptive messaging rather than explicit direction.
 8. Make every word of the tutorial text relevant, introducing jokes, storytelling or confusing explanantions can introduce to the player the habit of skipping dialogs.
 9. Reinforcing the 5th rule, use as much visuals as possible to reduce the words and the reading time.
 10. Finally, avoid explaining and teaching things that everyone knows such as jump on a platform game or shoot on a Call of Duty game, it is useless.
